@@ -1,0 +1,21 @@
+{
+  "name": "Wallaby: Base Chain Assets config",
+  "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+  "timestamp": "2024-01-12T16:00:32.802Z",
+  "tokens": [
+    {
+      "chainId": 84532,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "type": "BRC_20",
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    }
+  ],
+  "version": {
+    "major": 14,
+    "minor": 0,
+    "patch": 0
+  }
+}

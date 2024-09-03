@@ -1,0 +1,34 @@
+{
+  "name": "Wallaby: Avalanche C Chain Asset Config",
+  "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+  "timestamp": "2022-06-16T17:19:11.183301",
+  "tokens": [
+    {
+      "chainId": 4,
+      "asset": "c10009000_t0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+      "type": "ARC_20",
+      "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+      "name": "TetherToken",
+      "symbol": "USDt",
+      "decimals": 6,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png",
+      "pairs": []
+    },
+    {
+      "chainId": 4,
+      "asset": "c10009000_t0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "type": "ARC_20",
+      "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png",
+      "pairs": []
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

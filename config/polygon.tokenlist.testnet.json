@@ -1,0 +1,37 @@
+{
+  "name": "Wallaby: Polygon Assets config",
+  "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+  "timestamp": "2021-10-07T08:50:36.056Z",
+  "tokens": [
+    {
+      "chainId": 80001,
+      "name": "Matic",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg"
+    },
+    {
+      "chainId": 80001,
+      "name": "Ether - PoS",
+      "symbol": "ETH",
+      "decimals": 18,
+      "type": "MRC_20",
+      "address": "0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa",
+      "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
+    },
+    {
+      "chainId": 80001,
+      "name": "Dummy ERC20",
+      "symbol": "DERC20",
+      "type": "MRC_20",
+      "decimals": 18,
+      "address": "0xfe4F5145f6e09952a5ba9e956ED0C25e3Fa4c7F1",
+      "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
+    }
+  ],
+  "version": {
+    "major": 14,
+    "minor": 0,
+    "patch": 0
+  }
+}

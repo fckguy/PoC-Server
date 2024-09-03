@@ -1,0 +1,19 @@
+{
+  "name": "Wallaby: Sui Assets config",
+  "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+  "timestamp": "2021-10-07T08:50:36.056Z",
+  "tokens": [
+    {
+      "chainId": 101,
+      "name": "Sui",
+      "symbol": "SUI",
+      "decimals": 9,
+      "logoURI": "https://aqua-random-cat-402.mypinata.cloud/ipfs/QmZHURKupf3UKN4sp9xwziGZdzcqXienkmtM28pTUntJW7"
+    }
+  ],
+  "version": {
+    "major": 14,
+    "minor": 0,
+    "patch": 0
+  }
+}

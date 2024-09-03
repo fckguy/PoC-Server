@@ -1,0 +1,43 @@
+{
+  "name": "Wallaby: Algorand Tokens",
+  "timestamp": "2021-11-09T22:30:24.689Z",
+  "version": {},
+  "tokens": [
+    {
+      "chainId": 0,
+      "type": "ALGO_STANDARD",
+      "address": "12400859",
+      "name": "Monerium EUR",
+      "symbol": "EURE",
+      "decimals": 8,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 0,
+      "type": "ALGO_STANDARD",
+      "address": "312769",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 0,
+      "type": "ALGO_STANDARD",
+      "address": "31566704",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 0,
+      "type": "ALGO_APP",
+      "address": "13997710",
+      "name": "Note",
+      "symbol": "NOTE",
+      "decimals": 8,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Wallaby: Polygon Assets config",
+  "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+  "timestamp": "2021-10-07T08:50:36.056Z",
+  "tokens": [
+    {
+      "chainId": 137,
+      "name": "Matic",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg"
+    },
+    {
+      "chainId": 137,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "type": "MRC_20",
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg"
+    },
+    {
+      "chainId": 137,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "type": "MRC_20",
+      "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+      "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg"
+    }
+  ],
+  "version": {
+    "major": 14,
+    "minor": 0,
+    "patch": 0
+  }
+}
